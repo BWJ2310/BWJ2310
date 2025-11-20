@@ -1,5 +1,5 @@
 ### Hi there 👋, This is Bruz
-#### I am the developer of [TradingGoose](https://trading-goose.github.io)
+#### I am currently working on a [TradingGoose](https://github.com/Trading-Goose) project
 
 
 <picture>
